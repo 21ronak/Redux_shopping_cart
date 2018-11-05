@@ -1,3 +1,6 @@
+This application is a much simpler version of the Shopping Cart example in Redux docs.
+(https://redux.js.org/introduction/examples)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
